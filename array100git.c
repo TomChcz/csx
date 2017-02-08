@@ -13,4 +13,6 @@ int main(void)
         array[i] = i;
         printf("array index at %i equals %i\n", i,  (array[i] + 1));
     }
+    
+    printf("array loaded\n");
 }
